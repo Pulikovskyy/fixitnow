@@ -1,6 +1,6 @@
 # App-maint Android Studio Project
 
-This repository contains the source code for the "App-maint" Android Studio project.
+This repository contains the source code for the "FixItNow!" Android Studio project.
 
 ## Getting Started
 
