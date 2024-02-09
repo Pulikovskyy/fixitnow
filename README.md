@@ -1,4 +1,4 @@
-# App-maint Android Studio Project
+# FixItNow! Android Studio Project
 
 This repository contains the source code for the "FixItNow!" Android Studio project.
 
